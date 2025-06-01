@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **sagniknandi07@gmail.com**😊😊
 
-- 🔭 **I’m currently working on:**Machine Learning projects
+- 🔭 **I’m currently working on:** Machine Learning projects
 - 🌱 **I’m currently learning:** Flutter and Full-stack
 - 📫 **How to reach me:** sagniknandi07@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
