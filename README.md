@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Sagnik Nandi
-**An Aspring SDE/SWE || Frontend Developer || Machine Learning Engineer**
+**An Aspring SDE/SWE || Full Stack Web Developer || Machine Learning Engineer**
 
 Email Me 👉 ✉️ **sagniknandi07@gmail.com**😊😊
 
